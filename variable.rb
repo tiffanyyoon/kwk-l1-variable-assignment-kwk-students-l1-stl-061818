@@ -3,3 +3,4 @@
 def greeting
   puts local_greeting "Hello World"
 end
+local_greeting
